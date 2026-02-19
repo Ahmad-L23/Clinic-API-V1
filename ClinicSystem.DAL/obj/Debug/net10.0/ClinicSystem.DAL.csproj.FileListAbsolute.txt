@@ -13,3 +13,4 @@ C:\ClinicSystem\ClinicSystem.DAL\obj\Debug\net10.0\ClinicSystem.DAL.dll
 C:\ClinicSystem\ClinicSystem.DAL\obj\Debug\net10.0\refint\ClinicSystem.DAL.dll
 C:\ClinicSystem\ClinicSystem.DAL\obj\Debug\net10.0\ClinicSystem.DAL.pdb
 C:\ClinicSystem\ClinicSystem.DAL\obj\Debug\net10.0\ref\ClinicSystem.DAL.dll
+C:\ClinicSystem\ClinicSystem.DAL\obj\Debug\net10.0\ClinicSystem.DAL.sourcelink.json

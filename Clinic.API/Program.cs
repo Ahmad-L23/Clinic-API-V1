@@ -1,23 +1,36 @@
+using ClinicSystem.DAL.Global;
+using FluentValidation;
+using FluentValidation.AspNetCore;
+using System.Reflection;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Initialize your DB connection
+DataAccessSetting.Initialize(builder.Configuration);
 
+// Add controllers
 builder.Services.AddControllers();
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
+
+// ----------------------
+// FluentValidation setup (new way)
+// ----------------------
+builder.Services.AddFluentValidationAutoValidation(); // Server-side automatic validation
+builder.Services.AddFluentValidationClientsideAdapters(); // Optional: for MVC client-side validation
+
+// Register all validators from the DTO assembly
+builder.Services.AddValidatorsFromAssembly(Assembly.Load("ClinicSystem.DTOs"));
+
+// OpenAPI / Swagger
 builder.Services.AddOpenApi();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
 }
 
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
-
 app.Run();

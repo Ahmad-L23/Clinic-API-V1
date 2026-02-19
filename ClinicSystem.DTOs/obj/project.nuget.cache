@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pGsfQCtdSdk=",
+  "dgSpecHash": "vlnIw4z/1Bs=",
   "success": true,
   "projectFilePath": "C:\\ClinicSystem\\ClinicSystem.DTOs\\ClinicSystem.DTOs.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512"
+  ],
   "logs": []
 }
