@@ -1,0 +1,15 @@
+C:\ClinicSystem\ClinicSystem.DAL\bin\Debug\net10.0\ClinicSystem.DAL.deps.json
+C:\ClinicSystem\ClinicSystem.DAL\bin\Debug\net10.0\ClinicSystem.DAL.dll
+C:\ClinicSystem\ClinicSystem.DAL\bin\Debug\net10.0\ClinicSystem.DAL.pdb
+C:\ClinicSystem\ClinicSystem.DAL\bin\Debug\net10.0\ClinicSystem.DTOs.dll
+C:\ClinicSystem\ClinicSystem.DAL\bin\Debug\net10.0\ClinicSystem.DTOs.pdb
+C:\ClinicSystem\ClinicSystem.DAL\obj\Debug\net10.0\ClinicSystem.DAL.csproj.AssemblyReference.cache
+C:\ClinicSystem\ClinicSystem.DAL\obj\Debug\net10.0\ClinicSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ClinicSystem\ClinicSystem.DAL\obj\Debug\net10.0\ClinicSystem.DAL.AssemblyInfoInputs.cache
+C:\ClinicSystem\ClinicSystem.DAL\obj\Debug\net10.0\ClinicSystem.DAL.AssemblyInfo.cs
+C:\ClinicSystem\ClinicSystem.DAL\obj\Debug\net10.0\ClinicSystem.DAL.csproj.CoreCompileInputs.cache
+C:\ClinicSystem\ClinicSystem.DAL\obj\Debug\net10.0\ClinicSy.6B0DCCEE.Up2Date
+C:\ClinicSystem\ClinicSystem.DAL\obj\Debug\net10.0\ClinicSystem.DAL.dll
+C:\ClinicSystem\ClinicSystem.DAL\obj\Debug\net10.0\refint\ClinicSystem.DAL.dll
+C:\ClinicSystem\ClinicSystem.DAL\obj\Debug\net10.0\ClinicSystem.DAL.pdb
+C:\ClinicSystem\ClinicSystem.DAL\obj\Debug\net10.0\ref\ClinicSystem.DAL.dll

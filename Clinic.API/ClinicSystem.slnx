@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../ClinicSystem.BLL/ClinicSystem.BLL.csproj" />
+  <Project Path="../ClinicSystem.DAL/ClinicSystem.DAL.csproj" />
+  <Project Path="../ClinicSystem.DTOs/ClinicSystem.DTOs.csproj" />
+  <Project Path="ClinicSystem.API.csproj" />
+</Solution>

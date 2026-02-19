@@ -1,0 +1,11 @@
+C:\ClinicSystem\ClinicSystem.DTOs\bin\Debug\net10.0\ClinicSystem.DTOs.deps.json
+C:\ClinicSystem\ClinicSystem.DTOs\bin\Debug\net10.0\ClinicSystem.DTOs.dll
+C:\ClinicSystem\ClinicSystem.DTOs\bin\Debug\net10.0\ClinicSystem.DTOs.pdb
+C:\ClinicSystem\ClinicSystem.DTOs\obj\Debug\net10.0\ClinicSystem.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\ClinicSystem\ClinicSystem.DTOs\obj\Debug\net10.0\ClinicSystem.DTOs.AssemblyInfoInputs.cache
+C:\ClinicSystem\ClinicSystem.DTOs\obj\Debug\net10.0\ClinicSystem.DTOs.AssemblyInfo.cs
+C:\ClinicSystem\ClinicSystem.DTOs\obj\Debug\net10.0\ClinicSystem.DTOs.csproj.CoreCompileInputs.cache
+C:\ClinicSystem\ClinicSystem.DTOs\obj\Debug\net10.0\ClinicSystem.DTOs.dll
+C:\ClinicSystem\ClinicSystem.DTOs\obj\Debug\net10.0\refint\ClinicSystem.DTOs.dll
+C:\ClinicSystem\ClinicSystem.DTOs\obj\Debug\net10.0\ClinicSystem.DTOs.pdb
+C:\ClinicSystem\ClinicSystem.DTOs\obj\Debug\net10.0\ref\ClinicSystem.DTOs.dll

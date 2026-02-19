@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ClinicSystem\\Clinic.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49E38C51-AE47-49A8-B47F-CAACBEEB4E70}|..\\ClinicSystem.DTOs\\ClinicSystem.DTOs.csproj|c:\\clinicsystem\\clinicsystem.dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F47E49-516E-45F6-AED3-C38E31ABF6CB}|..\\ClinicSystem.BLL\\ClinicSystem.BLL.csproj|c:\\clinicsystem\\clinicsystem.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4FD999-D81E-4922-9684-B201F95C5DF8}|..\\ClinicSystem.DAL\\ClinicSystem.DAL.csproj|c:\\clinicsystem\\clinicsystem.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DTOs\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ClinicSystem.DTOs\\Class1.cs",
+              "ToolTip": "C:\\ClinicSystem\\ClinicSystem.DTOs\\Class1.cs",
+              "RelativeToolTip": "..\\ClinicSystem.DTOs\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T05:26:53.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ClinicSystem.BLL\\Class1.cs",
+              "ToolTip": "C:\\ClinicSystem\\ClinicSystem.BLL\\Class1.cs",
+              "RelativeToolTip": "..\\ClinicSystem.BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T05:26:02.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ClinicSystem.DAL\\Class1.cs",
+              "ToolTip": "C:\\ClinicSystem\\ClinicSystem.DAL\\Class1.cs",
+              "RelativeToolTip": "..\\ClinicSystem.DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T05:25:40.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

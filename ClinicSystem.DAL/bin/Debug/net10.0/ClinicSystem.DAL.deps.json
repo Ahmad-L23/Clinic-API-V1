@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ClinicSystem.DAL/1.0.0": {
+        "dependencies": {
+          "ClinicSystem.DTOs": "1.0.0"
+        },
+        "runtime": {
+          "ClinicSystem.DAL.dll": {}
+        }
+      },
+      "ClinicSystem.DTOs/1.0.0": {
+        "runtime": {
+          "ClinicSystem.DTOs.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClinicSystem.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClinicSystem.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
