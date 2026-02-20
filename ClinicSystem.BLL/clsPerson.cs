@@ -57,7 +57,7 @@ namespace ClinicSystem.BLL
         {
             PersonID = clsPersonData.AddPerson(PDto);
 
-            return PersonID != -1;
+            return (PersonID != -1) ;
         }
 
         private bool _UpdatePrson()

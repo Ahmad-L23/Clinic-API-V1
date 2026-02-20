@@ -75,3 +75,9 @@ C:\ClinicSystem\Clinic.API\bin\Debug\net10.0\ClinicSystem.BLL.pdb
 C:\ClinicSystem\Clinic.API\bin\Debug\net10.0\ClinicSystem.DTOs.pdb
 C:\ClinicSystem\Clinic.API\bin\Debug\net10.0\ClinicSystem.DAL.pdb
 C:\ClinicSystem\Clinic.API\obj\Debug\net10.0\ClinicSystem.API.sourcelink.json
+C:\ClinicSystem\Clinic.API\bin\Debug\net10.0\FluentValidation.dll
+C:\ClinicSystem\Clinic.API\bin\Debug\net10.0\FluentValidation.AspNetCore.dll
+C:\ClinicSystem\Clinic.API\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\ClinicSystem\Clinic.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ClinicSystem\Clinic.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ClinicSystem\Clinic.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll

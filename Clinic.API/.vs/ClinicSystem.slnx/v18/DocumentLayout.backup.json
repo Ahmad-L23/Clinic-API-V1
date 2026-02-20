@@ -7,29 +7,38 @@
       "RelativeMoniker": "D:0:0:{CA75B582-81C4-EE68-7114-3090077D87A0}|ClinicSystem.API.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{59667189-949D-DA2E-11CA-594B9FF28B34}|..\\ClinicSystem.DTOs\\ClinicSystem.DTOs.csproj|c:\\clinicsystem\\clinicsystem.dtos\\persondtos\\persondtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1064A4-6E0C-E9E0-5017-1979D16C0F3A}|..\\ClinicSystem.DAL\\ClinicSystem.DAL.csproj|c:\\clinicsystem\\clinicsystem.dal\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40E07A70-327B-E5EB-E58D-24F00840A2C9}|..\\ClinicSystem.BLL\\ClinicSystem.BLL.csproj|c:\\clinicsystem\\clinicsystem.bll\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59667189-949D-DA2E-11CA-594B9FF28B34}|..\\ClinicSystem.DTOs\\ClinicSystem.DTOs.csproj|c:\\clinicsystem\\clinicsystem.dtos\\persondtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA75B582-81C4-EE68-7114-3090077D87A0}|ClinicSystem.API.csproj|c:\\clinicsystem\\clinic.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA75B582-81C4-EE68-7114-3090077D87A0}|ClinicSystem.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59667189-949D-DA2E-11CA-594B9FF28B34}|..\\ClinicSystem.DTOs\\ClinicSystem.DTOs.csproj|c:\\clinicsystem\\clinicsystem.dtos\\persondtos\\persondtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40E07A70-327B-E5EB-E58D-24F00840A2C9}|..\\ClinicSystem.BLL\\ClinicSystem.BLL.csproj|c:\\clinicsystem\\clinicsystem.bll\\clinicsystem.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59667189-949D-DA2E-11CA-594B9FF28B34}|..\\ClinicSystem.DTOs\\ClinicSystem.DTOs.csproj|c:\\clinicsystem\\clinicsystem.dtos\\persondtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD1064A4-6E0C-E9E0-5017-1979D16C0F3A}|..\\ClinicSystem.DAL\\ClinicSystem.DAL.csproj|c:\\clinicsystem\\clinicsystem.dal\\clspatientsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD1064A4-6E0C-E9E0-5017-1979D16C0F3A}|..\\ClinicSystem.DAL\\ClinicSystem.DAL.csproj|c:\\clinicsystem\\clinicsystem.dal\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59667189-949D-DA2E-11CA-594B9FF28B34}|..\\ClinicSystem.DTOs\\ClinicSystem.DTOs.csproj|c:\\clinicsystem\\clinicsystem.dtos\\patientdtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59667189-949D-DA2E-11CA-594B9FF28B34}|..\\ClinicSystem.DTOs\\ClinicSystem.DTOs.csproj|c:\\clinicsystem\\clinicsystem.dtos\\patientdtos\\patientaddupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD1064A4-6E0C-E9E0-5017-1979D16C0F3A}|..\\ClinicSystem.DAL\\ClinicSystem.DAL.csproj|c:\\clinicsystem\\clinicsystem.dal\\clsdoctorsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD1064A4-6E0C-E9E0-5017-1979D16C0F3A}|..\\ClinicSystem.DAL\\ClinicSystem.DAL.csproj|c:\\clinicsystem\\clinicsystem.dal\\clsmedicalrecordsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1064A4-6E0C-E9E0-5017-1979D16C0F3A}|..\\ClinicSystem.DAL\\ClinicSystem.DAL.csproj|c:\\clinicsystem\\clinicsystem.dal\\clspatientsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD1064A4-6E0C-E9E0-5017-1979D16C0F3A}|..\\ClinicSystem.DAL\\ClinicSystem.DAL.csproj|c:\\clinicsystem\\clinicsystem.dal\\clspaymentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -56,12 +65,6 @@
       "AbsoluteMoniker": "D:0:0:{59667189-949D-DA2E-11CA-594B9FF28B34}|..\\ClinicSystem.DTOs\\ClinicSystem.DTOs.csproj|c:\\clinicsystem\\clinicsystem.dtos\\doctordtos\\doctoraddupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59667189-949D-DA2E-11CA-594B9FF28B34}|..\\ClinicSystem.DTOs\\ClinicSystem.DTOs.csproj|c:\\clinicsystem\\clinicsystem.dtos\\patientdtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59667189-949D-DA2E-11CA-594B9FF28B34}|..\\ClinicSystem.DTOs\\ClinicSystem.DTOs.csproj|c:\\clinicsystem\\clinicsystem.dtos\\patientdtos\\patientaddupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AD1064A4-6E0C-E9E0-5017-1979D16C0F3A}|..\\ClinicSystem.DAL\\ClinicSystem.DAL.csproj|c:\\clinicsystem\\clinicsystem.dal\\global\\clsdataaccesshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -79,71 +82,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PersonDTOValidator.cs",
-              "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DTOs\\PersonDTOs\\PersonDTOValidator.cs",
-              "RelativeDocumentMoniker": "..\\ClinicSystem.DTOs\\PersonDTOs\\PersonDTOValidator.cs",
-              "ToolTip": "C:\\ClinicSystem\\ClinicSystem.DTOs\\PersonDTOs\\PersonDTOValidator.cs",
-              "RelativeToolTip": "..\\ClinicSystem.DTOs\\PersonDTOs\\PersonDTOValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T14:18:03.523Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PersonController.cs",
               "DocumentMoniker": "C:\\ClinicSystem\\Clinic.API\\Controllers\\PersonController.cs",
               "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
-              "ToolTip": "C:\\ClinicSystem\\Clinic.API\\Controllers\\PersonController.cs",
-              "RelativeToolTip": "Controllers\\PersonController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAwEoAAAAuAAAAAAAAAA==",
+              "ToolTip": "C:\\ClinicSystem\\Clinic.API\\Controllers\\PersonController.cs*",
+              "RelativeToolTip": "Controllers\\PersonController.cs*",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwGQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T14:08:38.199Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "clsPerson.cs",
-              "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.BLL\\clsPerson.cs",
-              "RelativeDocumentMoniker": "..\\ClinicSystem.BLL\\clsPerson.cs",
-              "ToolTip": "C:\\ClinicSystem\\ClinicSystem.BLL\\clsPerson.cs",
-              "RelativeToolTip": "..\\ClinicSystem.BLL\\clsPerson.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAswF0AAAA2AAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "PatientDTO.cs",
+              "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DTOs\\PatientDTOs\\PatientDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicSystem.DTOs\\PatientDTOs\\PatientDTO.cs",
+              "ToolTip": "C:\\ClinicSystem\\ClinicSystem.DTOs\\PatientDTOs\\PatientDTO.cs",
+              "RelativeToolTip": "..\\ClinicSystem.DTOs\\PatientDTOs\\PatientDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T10:54:34.969Z",
+              "WhenOpened": "2026-02-19T09:28:21.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "clsMedicalRecordsData.cs",
-              "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DAL\\clsMedicalRecordsData.cs",
-              "RelativeDocumentMoniker": "..\\ClinicSystem.DAL\\clsMedicalRecordsData.cs",
-              "ToolTip": "C:\\ClinicSystem\\ClinicSystem.DAL\\clsMedicalRecordsData.cs",
-              "RelativeToolTip": "..\\ClinicSystem.DAL\\clsMedicalRecordsData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "PatientAddUpdateDTO.cs",
+              "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DTOs\\PatientDTOs\\PatientAddUpdateDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicSystem.DTOs\\PatientDTOs\\PatientAddUpdateDTO.cs",
+              "ToolTip": "C:\\ClinicSystem\\ClinicSystem.DTOs\\PatientDTOs\\PatientAddUpdateDTO.cs",
+              "RelativeToolTip": "..\\ClinicSystem.DTOs\\PatientDTOs\\PatientAddUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T10:08:37.186Z",
+              "WhenOpened": "2026-02-19T09:28:02.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ClinicSystem\\Clinic.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\ClinicSystem\\Clinic.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T06:30:18.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClinicSystem.BLL",
+              "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.BLL\\ClinicSystem.BLL.csproj",
+              "RelativeDocumentMoniker": "..\\ClinicSystem.BLL\\ClinicSystem.BLL.csproj",
+              "ToolTip": "C:\\ClinicSystem\\ClinicSystem.BLL\\ClinicSystem.BLL.csproj",
+              "RelativeToolTip": "..\\ClinicSystem.BLL\\ClinicSystem.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T23:01:35.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "clsPersonData.cs",
               "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DAL\\clsPersonData.cs",
               "RelativeDocumentMoniker": "..\\ClinicSystem.DAL\\clsPersonData.cs",
               "ToolTip": "C:\\ClinicSystem\\ClinicSystem.DAL\\clsPersonData.cs",
               "RelativeToolTip": "..\\ClinicSystem.DAL\\clsPersonData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T07:36:41.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonDTOValidator.cs",
+              "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DTOs\\PersonDTOs\\PersonDTOValidator.cs",
+              "RelativeDocumentMoniker": "..\\ClinicSystem.DTOs\\PersonDTOs\\PersonDTOValidator.cs",
+              "ToolTip": "C:\\ClinicSystem\\ClinicSystem.DTOs\\PersonDTOs\\PersonDTOValidator.cs",
+              "RelativeToolTip": "..\\ClinicSystem.DTOs\\PersonDTOs\\PersonDTOValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T14:18:03.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsPatientsData.cs",
+              "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DAL\\clsPatientsData.cs",
+              "RelativeDocumentMoniker": "..\\ClinicSystem.DAL\\clsPatientsData.cs",
+              "ToolTip": "C:\\ClinicSystem\\ClinicSystem.DAL\\clsPatientsData.cs",
+              "RelativeToolTip": "..\\ClinicSystem.DAL\\clsPatientsData.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAiwH0AAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:23:22.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.BLL\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\ClinicSystem.BLL\\clsPerson.cs",
+              "ToolTip": "C:\\ClinicSystem\\ClinicSystem.BLL\\clsPerson.cs",
+              "RelativeToolTip": "..\\ClinicSystem.BLL\\clsPerson.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAUwDkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T10:54:34.969Z",
               "EditorCaption": ""
             },
             {
@@ -161,20 +217,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ClinicSystem\\Clinic.API\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\ClinicSystem\\Clinic.API\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "clsMedicalRecordsData.cs",
+              "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DAL\\clsMedicalRecordsData.cs",
+              "RelativeDocumentMoniker": "..\\ClinicSystem.DAL\\clsMedicalRecordsData.cs",
+              "ToolTip": "C:\\ClinicSystem\\ClinicSystem.DAL\\clsMedicalRecordsData.cs",
+              "RelativeToolTip": "..\\ClinicSystem.DAL\\clsMedicalRecordsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T06:30:18.122Z",
+              "WhenOpened": "2026-02-19T10:08:37.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "clsPaymentsData.cs",
               "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DAL\\clsPaymentsData.cs",
               "RelativeDocumentMoniker": "..\\ClinicSystem.DAL\\clsPaymentsData.cs",
@@ -187,20 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "clsPatientsData.cs",
-              "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DAL\\clsPatientsData.cs",
-              "RelativeDocumentMoniker": "..\\ClinicSystem.DAL\\clsPatientsData.cs",
-              "ToolTip": "C:\\ClinicSystem\\ClinicSystem.DAL\\clsPatientsData.cs",
-              "RelativeToolTip": "..\\ClinicSystem.DAL\\clsPatientsData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T09:23:22.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "clsDoctorsData.cs",
               "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DAL\\clsDoctorsData.cs",
               "RelativeDocumentMoniker": "..\\ClinicSystem.DAL\\clsDoctorsData.cs",
@@ -213,8 +256,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ClinicSystem.DTOs",
+              "DocumentIndex": 13,
+              "Title": "ClinicSystem.DTOs.csproj",
               "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DTOs\\ClinicSystem.DTOs.csproj",
               "RelativeDocumentMoniker": "..\\ClinicSystem.DTOs\\ClinicSystem.DTOs.csproj",
               "ToolTip": "C:\\ClinicSystem\\ClinicSystem.DTOs\\ClinicSystem.DTOs.csproj",
@@ -226,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "MedicalRecordDTO.cs",
               "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DTOs\\MedicalRecordDTOs\\MedicalRecordDTO.cs",
               "RelativeDocumentMoniker": "..\\ClinicSystem.DTOs\\MedicalRecordDTOs\\MedicalRecordDTO.cs",
@@ -239,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "MedicalRecordAddUpdateDTO.cs",
               "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DTOs\\MedicalRecordDTOs\\MedicalRecordAddUpdateDTO.cs",
               "RelativeDocumentMoniker": "..\\ClinicSystem.DTOs\\MedicalRecordDTOs\\MedicalRecordAddUpdateDTO.cs",
@@ -252,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "PaymentDTO.cs",
               "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DTOs\\PaymentDTOs\\PaymentDTO.cs",
               "RelativeDocumentMoniker": "..\\ClinicSystem.DTOs\\PaymentDTOs\\PaymentDTO.cs",
@@ -265,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "PaymentAddUpdateDTO.cs",
               "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DTOs\\PaymentDTOs\\PaymentAddUpdateDTO.cs",
               "RelativeDocumentMoniker": "..\\ClinicSystem.DTOs\\PaymentDTOs\\PaymentAddUpdateDTO.cs",
@@ -278,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "DoctorDTO.cs",
               "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DTOs\\DoctorDTOs\\DoctorDTO.cs",
               "RelativeDocumentMoniker": "..\\ClinicSystem.DTOs\\DoctorDTOs\\DoctorDTO.cs",
@@ -291,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "DoctorAddUpdateDTO.cs",
               "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DTOs\\DoctorDTOs\\DoctorAddUpdateDTO.cs",
               "RelativeDocumentMoniker": "..\\ClinicSystem.DTOs\\DoctorDTOs\\DoctorAddUpdateDTO.cs",
@@ -304,46 +347,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PatientDTO.cs",
-              "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DTOs\\PatientDTOs\\PatientDTO.cs",
-              "RelativeDocumentMoniker": "..\\ClinicSystem.DTOs\\PatientDTOs\\PatientDTO.cs",
-              "ToolTip": "C:\\ClinicSystem\\ClinicSystem.DTOs\\PatientDTOs\\PatientDTO.cs",
-              "RelativeToolTip": "..\\ClinicSystem.DTOs\\PatientDTOs\\PatientDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T09:28:21.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "PatientAddUpdateDTO.cs",
-              "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DTOs\\PatientDTOs\\PatientAddUpdateDTO.cs",
-              "RelativeDocumentMoniker": "..\\ClinicSystem.DTOs\\PatientDTOs\\PatientAddUpdateDTO.cs",
-              "ToolTip": "C:\\ClinicSystem\\ClinicSystem.DTOs\\PatientDTOs\\PatientAddUpdateDTO.cs",
-              "RelativeToolTip": "..\\ClinicSystem.DTOs\\PatientDTOs\\PatientAddUpdateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T09:28:02.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "clsDataAccessHelper.cs",
               "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DAL\\Global\\clsDataAccessHelper.cs",
               "RelativeDocumentMoniker": "..\\ClinicSystem.DAL\\Global\\clsDataAccessHelper.cs",
               "ToolTip": "C:\\ClinicSystem\\ClinicSystem.DAL\\Global\\clsDataAccessHelper.cs",
               "RelativeToolTip": "..\\ClinicSystem.DAL\\Global\\clsDataAccessHelper.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T08:34:00.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "DataAccessSetting.cs",
               "DocumentMoniker": "C:\\ClinicSystem\\ClinicSystem.DAL\\Global\\DataAccessSetting.cs",
               "RelativeDocumentMoniker": "..\\ClinicSystem.DAL\\Global\\DataAccessSetting.cs",
@@ -356,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\ClinicSystem\\Clinic.API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",

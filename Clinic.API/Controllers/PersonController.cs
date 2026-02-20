@@ -47,17 +47,31 @@ namespace ClinicSystem.API.Controllers
         [HttpPost]
         [ProducesResponseType(typeof(PersonDTO), 201)]
         [ProducesResponseType(400)]
-        public ActionResult<PersonDTO> Add([FromBody] PersonDTO personDto)
+        public ActionResult<PersonDTO> Add([FromBody] PersonDTO newPersonDto)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-            var personBLL = new clsPerson(personDto, clsPerson.enMode.Add);
+            clsPerson personBLL = new clsPerson(
+                new PersonDTO(
+                    newPersonDto.PersonID,
+                    newPersonDto.Name,
+                    newPersonDto.DateOfBirth,
+                    newPersonDto.Gender,
+                    newPersonDto.PhoneNumber,
+                    newPersonDto.Email,
+                    newPersonDto.Address
+                ));
 
             if (!personBLL.Save())
                 return BadRequest("Failed to add person.");
 
-            return CreatedAtAction(nameof(GetById), new { id = personBLL.PersonID }, personDto);
+            // Create new DTO with generated ID
+            var resultDto = newPersonDto with { PersonID = personBLL.PersonID };
+
+            return CreatedAtAction(nameof(GetById),
+                                   new { id = resultDto.PersonID },
+                                   resultDto);
         }
 
         /// <summary>
@@ -69,20 +83,28 @@ namespace ClinicSystem.API.Controllers
         [ProducesResponseType(204)]
         [ProducesResponseType(400)]
         [ProducesResponseType(404)]
-        public IActionResult Update(int id, [FromBody] PersonDTO personDto)
+        public ActionResult<PersonDTO> Update(int id, [FromBody] PersonDTO UpdatepersonDto)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-            if (id != personDto.PersonID)
-                return BadRequest("ID mismatch.");
+            
+            clsPerson? personBLL = clsPerson.Find(id);
 
-            var personBLL = new clsPerson(personDto, clsPerson.enMode.Update);
+            if (personBLL == null)
+                return NotFound($"Person with ID {id} not found.");
+
+            personBLL.Name = UpdatepersonDto.Name;
+            personBLL.Gender = UpdatepersonDto.Gender;
+            personBLL.DateOfBirth = UpdatepersonDto.DateOfBirth;
+            personBLL.PhoneNumber = UpdatepersonDto.PhoneNumber;
+            personBLL.Email = UpdatepersonDto.Email;
+            personBLL.Address = UpdatepersonDto.Address;
 
             if (!personBLL.Save())
-                return NotFound($"Person with ID {id} not found or update failed.");
+                return BadRequest("Update failed.");
 
-            return NoContent();
+            return Ok(UpdatepersonDto);
         }
 
         /// <summary>
@@ -91,9 +113,13 @@ namespace ClinicSystem.API.Controllers
         /// <param name="id">Person ID to delete</param>
         [HttpDelete("{id}")]
         [ProducesResponseType(204)]
+        [ProducesResponseType(400)]
         [ProducesResponseType(404)]
         public IActionResult Delete(int id)
         {
+            if (id < 1)
+                return BadRequest($"Not accepted ID {id}");
+            
             bool deleted = clsPerson.DeletePerson(id);
 
             if (!deleted)

@@ -10,3 +10,4 @@ C:\ClinicSystem\ClinicSystem.DTOs\obj\Debug\net10.0\refint\ClinicSystem.DTOs.dll
 C:\ClinicSystem\ClinicSystem.DTOs\obj\Debug\net10.0\ClinicSystem.DTOs.pdb
 C:\ClinicSystem\ClinicSystem.DTOs\obj\Debug\net10.0\ref\ClinicSystem.DTOs.dll
 C:\ClinicSystem\ClinicSystem.DTOs\obj\Debug\net10.0\ClinicSystem.DTOs.sourcelink.json
+C:\ClinicSystem\ClinicSystem.DTOs\obj\Debug\net10.0\ClinicSystem.DTOs.csproj.AssemblyReference.cache

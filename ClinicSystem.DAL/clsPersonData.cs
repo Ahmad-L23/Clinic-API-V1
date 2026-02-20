@@ -35,7 +35,7 @@ namespace ClinicSystem.DAL
 
             if (result != null && result != DBNull.Value)
             {
-                int newId = Convert.ToInt32(result);
+                NewId = Convert.ToInt32(result);
             }
 
             return NewId;

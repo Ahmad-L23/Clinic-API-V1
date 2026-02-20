@@ -103,7 +103,7 @@ namespace ClinicSystem.DAL
 
 
         // Get a patient by ID (from view)
-        public static PatientDTO? GetPatientByID(int patientId)
+        public static PatientAddUpdateDTO? GetPatientByID(int patientId)
         {
             using SqlConnection conn = new SqlConnection(_connectionString);
             using SqlCommand cmd = new SqlCommand("sp_GetPatientByID", conn)
@@ -117,15 +117,9 @@ namespace ClinicSystem.DAL
             using SqlDataReader reader = cmd.ExecuteReader();
             if (reader.Read())
             {
-                return new PatientDTO(
+                return new PatientAddUpdateDTO(
                     reader.GetInt32(reader.GetOrdinal("PatientID")),
-                    reader.GetInt32(reader.GetOrdinal("PersonID")),
-                    reader.GetString(reader.GetOrdinal("Name")),
-                    reader.IsDBNull(reader.GetOrdinal("DateOfBirth")) ? null : reader.GetDateTime(reader.GetOrdinal("DateOfBirth")),
-                    reader.IsDBNull(reader.GetOrdinal("Gender")) ? null : reader.GetBoolean(reader.GetOrdinal("Gender")),
-                    reader.IsDBNull(reader.GetOrdinal("PhoneNumber")) ? null : reader.GetString(reader.GetOrdinal("PhoneNumber")),
-                    reader.IsDBNull(reader.GetOrdinal("Email")) ? null : reader.GetString(reader.GetOrdinal("Email")),
-                    reader.IsDBNull(reader.GetOrdinal("Address")) ? null : reader.GetString(reader.GetOrdinal("Address"))
+                    reader.GetInt32(reader.GetOrdinal("PersonID"))
                 );
             }
 
