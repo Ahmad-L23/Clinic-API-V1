@@ -3,9 +3,9 @@
 namespace ClinicSystem.DTOs.PaymentDTOs
 {
     public record PaymentDTO(
-        int PaymentID,
+        int? PaymentID,
         DateTime PaymentDate,
-        string PaymentMethod,
+        string? PaymentMethod,
         decimal AmountPaid,
         string? AdditionalNotes
     );

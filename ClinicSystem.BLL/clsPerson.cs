@@ -96,5 +96,10 @@ namespace ClinicSystem.BLL
 
             return null;
         }
+
+        public static bool isExist(int Personid)
+        {
+            return clsPersonData.isExist(Personid);
+        }
     }
 }

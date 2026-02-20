@@ -46,8 +46,11 @@ namespace ClinicSystem.API.Controllers
         [ProducesResponseType(400)]
         public ActionResult<PatientDTO> Add([FromBody] PatientAddUpdateDTO newPatientDto)
         {
-            if (!ModelState.IsValid)
-                return BadRequest(ModelState);
+            if (newPatientDto.PersonID < 1)
+                return BadRequest();
+
+            if (!clsPerson.isExist(newPatientDto.PersonID))
+                return NotFound($"Person with ID {newPatientDto.PersonID} not found");
 
             var patientBLL = new clsPatient(newPatientDto, clsPatient.enMode.Add);
 

@@ -143,5 +143,26 @@ namespace ClinicSystem.DAL
 
             return null;
         }
+
+
+        public static bool isExist(int PersonId)
+        {
+            using SqlConnection conn = new SqlConnection(_connectionString);
+            using SqlCommand cmd = new SqlCommand("sp_CheckPersonExists", conn)
+            {
+                CommandType = CommandType.StoredProcedure
+            };
+            cmd.Parameters.AddWithValue("@PersonID", PersonId);
+
+            conn.Open();
+
+            object result = cmd.ExecuteScalar();
+
+            if (result != null && result != DBNull.Value)
+                return Convert.ToBoolean(result);
+            
+            return false;
+
+        }
     }
 }

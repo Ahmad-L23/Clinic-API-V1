@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClinicSystem.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b2fa50fc71ee8ff4702f52aef921e0fe8bc0c6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0fc8dffe06ddf66bb8ed2938afce92ea21cbb5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClinicSystem.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClinicSystem.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
