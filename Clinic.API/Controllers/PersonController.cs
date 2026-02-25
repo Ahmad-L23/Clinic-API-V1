@@ -27,8 +27,7 @@ namespace ClinicSystem.API.Controllers
         /// </summary>
         /// <param name="id">Person ID</param>
         [HttpGet("{id}")]
-        [ProducesResponseType(typeof(PersonDTO), 200)]
-        [ProducesResponseType(404)]
+       
         public ActionResult<PersonDTO> GetById(int id)
         {
            

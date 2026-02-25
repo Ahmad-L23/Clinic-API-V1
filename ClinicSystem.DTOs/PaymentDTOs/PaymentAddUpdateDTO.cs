@@ -6,7 +6,7 @@ namespace ClinicSystem.DTOs.PaymentDTOs
         int? PaymentID,               // Null for Add, set for Update
         DateTime PaymentDate,
         string PaymentMethod,
-        decimal AmountPaid,
+        double AmountPaid,
         string? AdditionalNotes
     );
 }
