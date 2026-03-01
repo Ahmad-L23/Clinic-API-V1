@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClinicSystem.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f10ff8e613112921e1b0f5689f6f1494ade347ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+370e9d663c617d06b9f378ea17ef89d596a651f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClinicSystem.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClinicSystem.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
